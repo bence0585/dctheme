@@ -3770,3 +3770,11 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
     content: "";
     background: url("https://i.imgur.com/pKjMSE0.png") center/100% no-repeat;
 }
+/* Zsombor */
+[user_by_bdfdb="483739130573094916"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="483739130573094916"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="483739130573094916"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="483739130573094916"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="483739130573094916"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://i.imgur.com/pEfGZxu.png") center/100% no-repeat;
