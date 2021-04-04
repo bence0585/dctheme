@@ -3740,14 +3740,24 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .search-1iTphC .searchBox-2_mAlO .searchBoxInput-K6mkng {
 	color: #4f5660;
 }
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+#app-mount [user_by_bdfdb].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+#app-mount [user_by_bdfdb].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+#app-mount [user_by_bdfdb].root-SR8cQa header .username-3gJmXY::before {
+    padding: 0 10px 0 10px;
+    margin-right: 4px;
+}
+#app-mount [user_by_bdfdb].channel-2QD9_O .name-uJV0GL div::before,
+#app-mount [user_by_bdfdb].member-3-YXUe .roleColor-rz2vM0::before {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
+
+/* Hal a szatyorban#0001 */
+[user_by_bdfdb="195834871497621504"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="195834871497621504"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="195834871497621504"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="195834871497621504"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="195834871497621504"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://cdn.discordapp.com/emojis/635936642372337674.png?v=1") center/100% no-repeat;
 }
