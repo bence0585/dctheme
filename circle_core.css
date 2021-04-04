@@ -3759,5 +3759,14 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 [user_by_bdfdb="195834871497621504"].member-3-YXUe .roleColor-rz2vM0::before,
 [user_by_bdfdb="195834871497621504"].channel-2QD9_O .name-uJV0GL div::before {
     content: "";
-    background: url("https://cdn.discordapp.com/emojis/635936642372337674.png?v=1") center/100% no-repeat;
+    background: url("https://raw.githubusercontent.com/stijnvdkolk/Discord-Badges-Images/master/badges/Boosting_Level_9.png") center/100% no-repeat;
+}
+/* Ballint#8383 */
+[user_by_bdfdb="535823047077396481"].wrapper-2a6GCs .contents-2mQqc9 h2 .username-1A8OIy::before,
+[user_by_bdfdb="535823047077396481"].userPopout-3XzG_A .header-2BwW8b .username-2b1r56::before,
+[user_by_bdfdb="535823047077396481"].root-SR8cQa header .username-3gJmXY::before,
+[user_by_bdfdb="535823047077396481"].member-3-YXUe .roleColor-rz2vM0::before,
+[user_by_bdfdb="535823047077396481"].channel-2QD9_O .name-uJV0GL div::before {
+    content: "";
+    background: url("https://i.imgur.com/pKjMSE0.png") center/100% no-repeat;
 }
